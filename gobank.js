@@ -1,0 +1,3 @@
+const gobank = () => {
+    //ini gobank
+}
