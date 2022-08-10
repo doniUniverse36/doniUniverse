@@ -1,0 +1,3 @@
+const gosend = () => {
+    //aplikasi gosend
+}
